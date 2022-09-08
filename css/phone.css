@@ -1,0 +1,63 @@
+#navbar{ 
+    flex-direction: column; 
+}
+#navbar ul li{
+    
+    font-size: 0.56rem;
+    
+}
+#navbar ul li a:hover{
+    color: black;
+  background-color: aqua;
+}
+#logo img{
+    height: 25px ;
+}
+#home p{
+    color: rgb(255, 255, 255);
+    font-size: 0.6rem;
+    
+}
+#home h1{
+  
+    font-size: 1rem;
+    padding: 10px;
+}
+.btn{
+    margin-top: 10px;
+    font-size: 0.45rem;
+}
+#home::before{
+    height: 195px;
+}
+#home{
+    height: 115px;
+}
+.services_container {
+    margin-top: 25px;
+}
+.h-pri {
+    font-size: 19px;
+}
+.h-sec{
+    font-size: 15px;
+}
+#services .box img{
+   
+    height: 50px;
+}
+.p2{
+    
+    font-size: 0.5rem;
+}
+#services .box{
+    border: 2px solid red;
+    background-color: rgb(255, 232, 232);
+    border-radius: 15px;
+    margin: 5px;
+    padding: 7px 3px;
+}
+#services{
+    margin: 2px 20px;
+    flex-direction: column;
+}

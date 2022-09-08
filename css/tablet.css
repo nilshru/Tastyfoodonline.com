@@ -1,0 +1,48 @@
+#navbar{ 
+    flex-direction: column; 
+}
+#navbar ul li a:hover{
+    color: black;
+  background-color: aqua;
+}
+#home p{
+    
+    font-size: 0.8rem;
+    
+}
+#home h1{
+  
+    font-size: 1.6rem;
+    padding: 10px;
+}
+.btn{
+    margin-top: 10px;
+    font-size: 0.7rem;
+}
+#home::before{
+    height: 260px;
+}
+#home{
+    height: 175px;
+}
+.services_container {
+    margin-top: 10px;
+}
+.h-pri {
+    font-size: 25px;
+}
+.h-sec{
+    font-size: 20px;
+}
+#services .box img{
+   
+    height: 50px;
+}
+.p2{
+    
+    font-size: 0.98rem;
+}
+#services{
+    margin: 2px 20px;
+    flex-direction: column;
+}
