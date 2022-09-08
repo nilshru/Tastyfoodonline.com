@@ -19,7 +19,7 @@
     margin-top: 10px;
     font-size: 0.7rem;
 }
-#home::before{
+#home .hbg{
     height: 260px;
 }
 #home{
